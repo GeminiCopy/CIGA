@@ -58,30 +58,40 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Framework\Input\InputMgr.cs" />
-    <Compile Include="Assets\Scripts\Framework\Singleton\SingletonMono.cs" />
-    <Compile Include="Assets\Scripts\Framework\Timer\TimerItem.cs" />
-    <Compile Include="Assets\Scripts\Framework\Scene\SceneMgr.cs" />
-    <Compile Include="Assets\Scripts\Framework\Singleton\SingletonAutoMono.cs" />
-    <Compile Include="Assets\Scripts\Framework\EventCenter\EventCenter.cs" />
-    <Compile Include="Assets\Scripts\Framework\AB\ABResMgr.cs" />
-    <Compile Include="Assets\Scripts\Framework\Timer\TimerMgr.cs" />
-    <Compile Include="Assets\Scripts\Framework\Res\ResMgr.cs" />
+    <Compile Include="Assets\Scripts\Test.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Framework\UI\UIMgr.cs" />
-    <Compile Include="Assets\Scripts\Framework\Input\InputInfo.cs" />
-    <Compile Include="Assets\Scripts\Framework\EditorRes\EditorResMgr.cs" />
-    <Compile Include="Assets\Scripts\Framework\Singleton\BaseManager.cs" />
-    <Compile Include="Assets\Scripts\Framework\Util\EncryptionUtil.cs" />
-    <Compile Include="Assets\Scripts\Framework\EventCenter\E_EventType.cs" />
-    <Compile Include="Assets\Scripts\Framework\Util\TextUtil.cs" />
-    <Compile Include="Assets\Scripts\Framework\Mono\MonoMgr.cs" />
     <Compile Include="Assets\Scripts\Framework\AB\ABMgr.cs" />
-    <Compile Include="Assets\Scripts\Framework\Pool\PoolMgr.cs" />
+    <Compile Include="Assets\Scripts\Framework\Input\InputMgr.cs" />
+    <Compile Include="Assets\Scripts\Framework\EditorRes\EditorResMgr.cs" />
+    <Compile Include="Assets\Scripts\Framework\Res\ResMgr.cs" />
     <Compile Include="Assets\Scripts\Framework\UI\BasePanel.cs" />
     <Compile Include="Assets\Scripts\Framework\UWQ\UWQResMgr.cs" />
+    <Compile Include="Assets\Scripts\Framework\Singleton\SingletonAutoMono.cs" />
+    <Compile Include="Assets\Scripts\Framework\Singleton\SingletonMono.cs" />
+    <Compile Include="Assets\Scripts\Framework\EventCenter\EventCenter.cs" />
+    <Compile Include="Assets\Scripts\FSM\FSM.cs" />
+    <Compile Include="Assets\Scripts\Framework\Timer\TimerItem.cs" />
+    <Compile Include="Assets\Scripts\Framework\Util\EncryptionUtil.cs" />
+    <Compile Include="Assets\Scripts\Framework\Util\TextUtil.cs" />
+    <Compile Include="Assets\Scripts\FSM\IState.cs" />
+    <Compile Include="Assets\Scripts\Framework\Timer\TimerMgr.cs" />
+    <Compile Include="Assets\Scripts\Framework\AB\ABResMgr.cs" />
+    <Compile Include="Assets\Scripts\Framework\EventCenter\E_EventType.cs" />
+    <Compile Include="Assets\Scripts\FSM\Monster\HandMonsterFSM.cs" />
+    <Compile Include="Assets\Scripts\Framework\Singleton\BaseManager.cs" />
     <Compile Include="Assets\Scripts\Framework\Util\MathUtil.cs" />
+    <Compile Include="Assets\Scripts\Framework\Scene\SceneMgr.cs" />
+    <Compile Include="Assets\Scripts\FSM\Monster\PumpkinMonsterFSM.cs" />
+    <Compile Include="Assets\Scripts\Framework\Pool\PoolMgr.cs" />
+    <Compile Include="Assets\Art\playerswitch.cs" />
+    <Compile Include="Assets\Scripts\Framework\Input\InputInfo.cs" />
+    <Compile Include="Assets\Scripts\FSM\StateType.cs" />
     <Compile Include="Assets\Scripts\Framework\Pool\PoolObj.cs" />
+    <Compile Include="Assets\Scripts\ThirdPersonController.cs" />
     <Compile Include="Assets\Scripts\Framework\Music\MusicMgr.cs" />
+    <Compile Include="Assets\Scripts\Framework\Mono\MonoMgr.cs" />
+    <Compile Include="Assets\Blink\Controllers\TopDownWASD\Scripts\Controller\TopDownWASDController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1009,6 +1019,22 @@
     <ProjectReference Include="Unity.AssetBundleBrowser.Editor.csproj">
       <Project>{A8D82216-E2B8-F5FE-2A80-985CDB8B7789}</Project>
       <Name>Unity.AssetBundleBrowser.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="NavMeshComponentsEditor.csproj">
+      <Project>{0FDEBA63-725F-A4B7-75B6-2CD1DED8ACBB}</Project>
+      <Name>NavMeshComponentsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="NavMeshComponentsExamplesEditor.csproj">
+      <Project>{6C7B2963-8134-270A-1ABD-DCAF6EA945DB}</Project>
+      <Name>NavMeshComponentsExamplesEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="NavMeshComponentsExamples.csproj">
+      <Project>{111DB0CF-F990-DA8E-91A2-ED8E4B532DEA}</Project>
+      <Name>NavMeshComponentsExamples</Name>
+    </ProjectReference>
+    <ProjectReference Include="NavMeshComponents.csproj">
+      <Project>{03429CCB-1A4A-C004-DF6F-14B214554028}</Project>
+      <Name>NavMeshComponents</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
