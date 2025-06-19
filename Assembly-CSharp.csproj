@@ -92,6 +92,16 @@
     <Compile Include="Assets\Scripts\Framework\Music\MusicMgr.cs" />
     <Compile Include="Assets\Scripts\Framework\Mono\MonoMgr.cs" />
     <Compile Include="Assets\Blink\Controllers\TopDownWASD\Scripts\Controller\TopDownWASDController.cs" />
+    <Compile Include="Assets\MeunScene\MyButton.cs" />
+    <Compile Include="Assets\MeunScene\Meun.cs" />
+    <Compile Include="Assets\Scripts\StateClass\PlayerAttackState.cs" />
+    <Compile Include="Assets\Scripts\BaseClass\StateMachineBase.cs" />
+    <Compile Include="Assets\Scripts\StateClass\PlayerMoveState.cs" />
+    <Compile Include="Assets\Scripts\StateClass\PlayerIdleState.cs" />
+    <Compile Include="Assets\Scripts\BaseClass\ActorBase.cs" />
+    <Compile Include="Assets\Scripts\StateClass\PlayerHurtState.cs" />
+    <Compile Include="Assets\Scenes\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\GUISpawwn.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -54,6 +54,16 @@ public class PumpkinMonsterFSM : MonoBehaviour
         {
             enterTime = 0.0f;
             Debug.Log("½øÈë");
+            var target = GameObject.FindWithTag("Player");
+            if (target == null)
+            {
+                Debug.Log("CANT FIND");
+                Destroy(blackboard.self);
+            }
+            else
+            {
+                blackboard.target = target;
+            }
         }
 
         public void OnExit()
@@ -82,6 +92,7 @@ public class PumpkinMonsterFSM : MonoBehaviour
         public void OnEnter()
         {
             Debug.Log("IDLE");
+
         }
 
         public void OnExit()

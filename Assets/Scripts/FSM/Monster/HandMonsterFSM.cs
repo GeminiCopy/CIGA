@@ -50,6 +50,16 @@ public class HandMonsterFSM : MonoBehaviour
         public void OnEnter()
         {
             enterTime = 1.3f;
+            var target = GameObject.FindWithTag("Player");
+            if(target == null)
+            {
+                Debug.Log("CANT FIND");
+                Destroy(blackboard.self);
+            }
+            else
+            {
+                blackboard.target = target;
+            }
         }
 
         public void OnExit()

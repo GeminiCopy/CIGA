@@ -231,7 +231,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &576324192818323791
 Transform:
   m_ObjectHideFlags: 0
@@ -241,7 +241,7 @@ Transform:
   m_GameObject: {fileID: 915448297636117493}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 12.33, y: 0, z: -0.67}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 6876583251761685102}
@@ -279,7 +279,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 3.5
+  m_Speed: 7
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 720
@@ -306,15 +306,15 @@ MonoBehaviour:
   blackboard:
     aniamtor: {fileID: 5845583360056605493}
     navmeshAgent: {fileID: 576324192818323789}
-    checkEnemyDistance: 15
-    attackRange: 8
-    keepDistance: 12
+    checkEnemyDistance: 20
+    attackRange: 10
+    keepDistance: 15
     searchRange: 5
     runFromTargetDistance: 0
     attackCD: 0
     maxAttackCD: 4
-    goBackSpeed: 2.5
-    runSpeed: 3.5
+    goBackSpeed: 5
+    runSpeed: 7
     target: {fileID: 0}
     self: {fileID: 915448297636117493}
   drawGizmos: 1

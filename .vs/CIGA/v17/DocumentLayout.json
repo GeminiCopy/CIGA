@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\",
+  "WorkspaceRootPath": "C:\\Users\\53407\\CIGA\\CIGA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|c:\\users\\53407\\downloads\\ciga\\ciga\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|c:\\users\\53407\\ciga\\ciga\\assets\\scripts\\guispawwn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guispawwn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\assets\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\assets\\blink\\controllers\\topdownwasd\\scripts\\controller\\topdownwasdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\blink\\controllers\\topdownwasd\\scripts\\controller\\topdownwasdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\assets\\scripts\\fsm\\monster\\pumpkinmonsterfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\CIGA\\CIGA\\assets\\scripts\\fsm\\monster\\pumpkinmonsterfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\monster\\pumpkinmonsterfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\assets\\scripts\\fsm\\monster\\handmonsterfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|c:\\users\\53407\\ciga\\ciga\\assets\\scripts\\fsm\\monster\\handmonsterfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\monster\\handmonsterfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\assets\\scripts\\fsm\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\CIGA\\CIGA\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\CIGA\\CIGA\\assets\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\CIGA\\CIGA\\assets\\blink\\controllers\\topdownwasd\\scripts\\controller\\topdownwasdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\blink\\controllers\\topdownwasd\\scripts\\controller\\topdownwasdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\CIGA\\CIGA\\assets\\scripts\\fsm\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\assets\\scripts\\fsm\\statetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|C:\\Users\\53407\\CIGA\\CIGA\\assets\\scripts\\fsm\\statetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F640C85-9025-130D-66E8-9A01215B897B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\statetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,23 +50,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Movement.cs",
-              "DocumentMoniker": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\Movement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
-              "ToolTip": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\Movement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
-              "ViewState": "AgIAACMBAAAAAAAAAAAMwNoAAAAQAAAAAAAAAA==",
+              "Title": "GUISpawwn.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\GUISpawwn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GUISpawwn.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\GUISpawwn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GUISpawwn.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:23:09.711Z",
+              "WhenOpened": "2025-06-19T12:43:41.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAMwNoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:23:09.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ThirdPersonController.cs",
-              "DocumentMoniker": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\ThirdPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\ThirdPersonController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonController.cs",
-              "ToolTip": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\ThirdPersonController.cs",
               "RelativeToolTip": "Assets\\Scripts\\ThirdPersonController.cs",
               "ViewState": "AQIAAKUAAAAAAAAAAADwv7UAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CameraControl.cs",
               "DocumentMoniker": "F:\\CIGA\\Assets\\Scripts\\CameraControl.cs",
               "ToolTip": "F:\\CIGA\\Assets\\Scripts\\CameraControl.cs",
@@ -80,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TopDownWASDController.cs",
-              "DocumentMoniker": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Blink\\Controllers\\TopDownWASD\\Scripts\\Controller\\TopDownWASDController.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Blink\\Controllers\\TopDownWASD\\Scripts\\Controller\\TopDownWASDController.cs",
               "RelativeDocumentMoniker": "Assets\\Blink\\Controllers\\TopDownWASD\\Scripts\\Controller\\TopDownWASDController.cs",
-              "ToolTip": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Blink\\Controllers\\TopDownWASD\\Scripts\\Controller\\TopDownWASDController.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Blink\\Controllers\\TopDownWASD\\Scripts\\Controller\\TopDownWASDController.cs",
               "RelativeToolTip": "Assets\\Blink\\Controllers\\TopDownWASD\\Scripts\\Controller\\TopDownWASDController.cs",
               "ViewState": "AQIAAKQBAAAAAAAAAAAswMkBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,35 +108,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PumpkinMonsterFSM.cs",
-              "DocumentMoniker": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\PumpkinMonsterFSM.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\PumpkinMonsterFSM.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\Monster\\PumpkinMonsterFSM.cs",
-              "ToolTip": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\PumpkinMonsterFSM.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\PumpkinMonsterFSM.cs",
               "RelativeToolTip": "Assets\\Scripts\\FSM\\Monster\\PumpkinMonsterFSM.cs",
-              "ViewState": "AQIAABkBAAAAAAAAAAAvwCkBAAABAAAA",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T06:56:27.121Z"
+              "WhenOpened": "2025-06-16T06:56:27.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "HandMonsterFSM.cs",
-              "DocumentMoniker": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\HandMonsterFSM.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\HandMonsterFSM.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\Monster\\HandMonsterFSM.cs",
-              "ToolTip": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\HandMonsterFSM.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\Monster\\HandMonsterFSM.cs",
               "RelativeToolTip": "Assets\\Scripts\\FSM\\Monster\\HandMonsterFSM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAN8AAAAAAAAA",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T04:43:41.311Z"
+              "WhenOpened": "2025-06-15T04:43:41.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StateType.cs",
-              "DocumentMoniker": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\StateType.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\StateType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\StateType.cs",
-              "ToolTip": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\StateType.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\StateType.cs",
               "RelativeToolTip": "Assets\\Scripts\\FSM\\StateType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,11 +146,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IState.cs",
-              "DocumentMoniker": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\IState.cs",
+              "DocumentMoniker": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\IState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\IState.cs",
-              "ToolTip": "C:\\Users\\53407\\Downloads\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\IState.cs",
+              "ToolTip": "C:\\Users\\53407\\CIGA\\CIGA\\Assets\\Scripts\\FSM\\IState.cs",
               "RelativeToolTip": "Assets\\Scripts\\FSM\\IState.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAA+wAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
