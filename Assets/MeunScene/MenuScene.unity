@@ -536,7 +536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5f116d58da58dd4883abc9e43226281, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  touchImage: {fileID: 0}
+  touchImage: {fileID: 513668233}
 --- !u!1 &719566934
 GameObject:
   m_ObjectHideFlags: 0
