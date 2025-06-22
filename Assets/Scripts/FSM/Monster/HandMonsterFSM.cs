@@ -159,7 +159,7 @@ public class HandMonsterFSM : MonoBehaviour
             time1 = 1.6f;//blackboard.doubleAttackCD;
             //doubleAttack = false;
             blackboard.aniamtor.SetTrigger("IsAttack");
-            //¹¥»÷Åö×²ÅÐ¶Ï
+            //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×²ï¿½Ð¶ï¿½
         }
 
         public void OnExit()
@@ -175,7 +175,7 @@ public class HandMonsterFSM : MonoBehaviour
             //    doubleAttack = true;
             //    time1 = 1.6f;
             //    blackboard.aniamtor.SetTrigger("IsAttack");
-            //    //¹¥»÷Åö×²ÅÐ¶Ï
+            //    //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×²ï¿½Ð¶ï¿½
             //}
             //if (time1 <= 0 && doubleAttack)
             //{
@@ -214,7 +214,7 @@ public class HandMonsterFSM : MonoBehaviour
             enterTime -= Time.deltaTime;
             if (enterTime <= 0)
             {
-                //¶¯»­²¥Íê£¬½øÐÐ´¦Àí£¬ÔÝÊ±Ïú»Ù
+                //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê£¬ï¿½ï¿½ï¿½Ð´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½
                 GameObject.Destroy(blackboard.self);
             }
         }
